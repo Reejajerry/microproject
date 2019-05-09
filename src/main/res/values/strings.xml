@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KochiMyMetro</string>
+    <string name="title_activity_metrofare">metrofare</string>
+    <string name="title_activity_metrotrains">metrotrains</string>
+    <string name="title_activity_metro_about">MetroAbout</string>
+    <string name="large_text">
+        "Kochi Metro.\n\n"
+
+        "The introduction of the Metro Rail is expected to change the entire face of Kochi with  "
+        "the residents of Kochi having quicker and better access to their jobs, business,education,"
+        "livelihood, entertainment and other social activities..\n\n"
+
+        "The strategic goal of the Kochi Metro Rail project is to increase the quality of life of "
+        "Kochi citizens by providing mobility to large numbers of people to reach their "
+        "destinations in a short span of time. Its main aim is to encourage the residents of Kochi"
+        "to use a more economic and eco-friendly alternative to public transport thereby reducing "
+        "overcrowding, traffic congestion, transit time as well as the noise and air pollution "
+        "caused by the ever growing traffic of Kochi.\n\n"
+
+        "The Kochi Metro app by Citrus Informatics aims to augment this project by helping people "
+        "travelling by the metro, find their way around Kochi very easily.You no longer need to "
+        " ask anyone for directions to places you want to go to. While waiting for your station to "
+        "approach, you can quickly find the restaurants, hospitals, movies and even ATMs near "
+        "your station.\n\n"
+
+
+
+        "And if you are travelling by road and want to get on the metro, the app can help you find "
+        "the nearest metro station. And what's more - you can get to know the tentative fare "
+        "information to your destination, distance between the stations and the number of "
+        "intermediate stations.\n\n"
+        "Just like the metro helps transport people faster, the Kochi metro app helps people find "
+        "and reach their destinations faster.\n\n"
+
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_metrosmartcard">Metrosmartcard</string>
+    <string name="title_activity_metroticket">Metroticket</string>
+    <string name="title_activity_metropassenger">Metropassenger</string>
+    <string name="title_activity_metrostations">Metrostations</string>
+</resources>

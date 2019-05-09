@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kochimymetro">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/r3"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/r3"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Metrostations"
+            android:label="@string/title_activity_metrostations"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Metropassenger" />
+        <activity
+            android:name=".Metrosmartcard"
+            android:label="@string/title_activity_metrosmartcard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MetroAbout"
+            android:label="@string/title_activity_metro_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".metrotrains"
+            android:label="@string/title_activity_metrotrains"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".metrofare"
+            android:label="@string/title_activity_metrofare"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>
